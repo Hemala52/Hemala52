@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hemala Balamurugan</h1>
-<h3 align="center">A passionate frontend developer and Java Developer</h3>
+<h3 align="center">A passionate Java Developer , Frontend Developer and UI/UX Design</h3>
 
 - 🌱 I’m currently learning **Java, HTML, CSS**
 
